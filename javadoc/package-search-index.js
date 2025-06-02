@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Ejercicios_Ud5"},{"l":"entornos.coche"},{"l":"entornos.refactor.figuras"},{"l":"entornos.refactor.utilidades"},{"l":"Recomendador"}];updateSearchResults();
